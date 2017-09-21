@@ -1,0 +1,3 @@
+files:
+  - source: /build.gradle
+    translation: /build-%two_letters_code%.gradle
